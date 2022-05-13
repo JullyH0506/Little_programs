@@ -1,6 +1,6 @@
-# Caesar Cipher Hacker
+# Caesar Cypher Hacker
 
-message = input('Enter a message: ').upper()
+message = input('Enter a cypher message: ').upper()
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 # Loop through every possible key
