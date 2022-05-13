@@ -1,4 +1,4 @@
-# Little_programs
+# Little programs
 
 Here you can find some little programs, developed using different Python modules. Most of them are connected to different math problems.
 
