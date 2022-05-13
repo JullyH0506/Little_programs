@@ -1,4 +1,4 @@
-# Encrypts text using Caesar's cipher
+# Encrypts text using Caesar's cypher
 
 def encrypt(text,s):
     result = ""
@@ -19,4 +19,4 @@ def encrypt(text,s):
 
 text = input('Plaintext: ')
 s = int(input('Shift: '))
-print ("Cipher: " + encrypt(text,s))
+print ("Cypher: " + encrypt(text,s))
